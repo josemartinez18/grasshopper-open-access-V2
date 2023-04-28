@@ -1,6 +1,6 @@
 # Rhino Grasshopper Open Access Education
 
-Rhino Grasshopper tutorials and knowledge base for industrial designers
+Rhino Grasshopper tutorials and knowledge base for industrial designers.
 
 ## Usage
 
